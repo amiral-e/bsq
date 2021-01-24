@@ -1,7 +1,7 @@
 # BSQ
 
 ## Description
-Elementary Programming | BSQ Epitech Teck1
+Elementary Programming Epitech | BSQ
 
 You must find the largest possible square on a board while avoiding obstacles.
 
